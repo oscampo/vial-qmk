@@ -1,4 +1,4 @@
-ifndef VERBOSE
+fndef VERBOSE
 .SILENT:
 endif
 
